@@ -3,6 +3,7 @@ package com.app;
 public class Employee {
 int a;
 String s;
+int d;
 public int getA() {
 	return a;
 }
