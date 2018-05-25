@@ -4,6 +4,7 @@ public class Employee {
 int a;
 String s;
 int d;
+String m;
 public int getA() {
 	return a;
 }
